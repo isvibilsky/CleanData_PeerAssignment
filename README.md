@@ -1,9 +1,3 @@
----
-title: "README"
-author: "Igor Svibilsky"
-date: "March 13, 2015"
-output: html_document
----
 ## Getting and Cleaning Data Course Project
 
 The folder contains the course project deliverables:
